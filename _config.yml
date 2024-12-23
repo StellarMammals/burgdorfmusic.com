@@ -21,7 +21,11 @@ remote_theme: raviriley/agency-jekyll-theme
 title      : Jacob Burgdorf
 email      : jacob.burgdorf@gmail.com #this is also the email contact forms will go to
 description: "Trumpet player and Music by Jacob Burgdorf"
+<<<<<<< HEAD
 author     : Jacob Burgdorf
+=======
+author     : jacob.burgdorf@gmail.com
+>>>>>>> 85451d4 (embedded video)
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
